@@ -1,3 +1,3 @@
 # WebProg
 
-BLOG
+BLOG PROJE
