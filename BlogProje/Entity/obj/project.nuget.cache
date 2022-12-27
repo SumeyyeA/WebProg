@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHD2EEWQteh9eOi7H5WVl8Poyf6Ndz0Xyv+wyEZrNHePqFmg4xuwN8DGcpzeOTPPzqPGx8cJvMqyLvcYn50VLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sumeyye\\Desktop\\SoftwareBlog-master (1)\\SoftwareBlog-master\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\ckeditor-full\\4.20.1\\ckeditor-full.4.20.1.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.0\\swashbuckle.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.0\\swashbuckle.aspnetcore.swagger.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.0\\swashbuckle.aspnetcore.swaggergen.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.0\\swashbuckle.aspnetcore.swaggerui.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
