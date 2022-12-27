@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Entity</id>
+    <version>1.0.0</version>
+    <authors>Entity</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Npgsql" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="ckeditor-full" version="4.20.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sumeyye\Desktop\SoftwareBlog-master (1)\SoftwareBlog-master\Entity\bin\Debug\net6.0\Entity.dll" target="lib\net6.0\Entity.dll" />
+  </files>
+</package>
