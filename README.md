@@ -1,3 +1,3 @@
 # WebProg
 
-BLOG PROJE ÖDEVİ
+BLOG PROJE ÖDEVİi
