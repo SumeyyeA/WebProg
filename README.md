@@ -1,3 +1,4 @@
 # WebProg
 
-BLOG PROJE ÖDEVİ
+BLOG PROJE ÖDEVİi
+-Kodlar zip klasöründedir.
